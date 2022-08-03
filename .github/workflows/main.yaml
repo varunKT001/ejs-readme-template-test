@@ -37,4 +37,4 @@ jobs:
         run: |
           git add .
           git commit -m "Update README.md"
-          git push origin main
+          git push -u origin main
