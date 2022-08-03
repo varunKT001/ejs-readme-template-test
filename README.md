@@ -6,7 +6,7 @@
 
 ## About me 👦
 
-- 🔭 I am currently learning Typescript.
+- 🔭 I'a currently learning Typescript.
 - 🌱 I'm looking for open-source/internship opportunities.
 - ✨ Find all my projects at [**varuntiwari.xyz**](https://varuntiwari.xyz/)
 - 📫 How to reach me **tiwarivarun819.vt33.vt@gmail.com**
