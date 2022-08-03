@@ -18,8 +18,13 @@ function fetchDevJoke(): AxiosPromise {
   const { data }: { data: DevJoke[] } = await fetchDevJoke();
   const devJoke = data[0];
 
+  // Get Update Time
+  const updatedOn = new Date().toLocaleString('en-US', {
+    timeZone: 'Asia/Kolkata',
+  });
+
   // Create new view
-  const view = Object.assign({}, { devJoke });
+  const view = Object.assign({}, { devJoke, updatedOn });
 
   // Update README.md
   const filePath = path.join(__dirname, './templates/main.ejs');
