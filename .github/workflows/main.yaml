@@ -33,9 +33,6 @@ jobs:
         run: |
           git config user.name "varunKT001"
           git config user.email "<tiwarivarun819.vt33.vt@gmail.com>"
-      - name: Change branch
-        run: |
-          git branch -M master main
       - name: commit files
         run: |
           git add .
