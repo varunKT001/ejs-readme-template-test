@@ -131,9 +131,9 @@
 ![varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=varunKT001&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
 
 <p align="center">
-<strong align="center">How many developers does it take to change a light bulb?</strong>
+<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
 <br/>
-<span align="center">None. It&#39;s a hardware issue.</span>
+<span align="center">Their first word is Hello World.</span>
 </p>
 
 <!-- Socials -->
