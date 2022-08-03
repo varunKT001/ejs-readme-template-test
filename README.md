@@ -1,9 +1,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Which programming language is the shortest?</strong>
+<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
 <br/>
-<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
+<span align="center">In a dad-a-base.</span>
 </p>
 
-<p align="center">(Update on: 8/3/2022, 10:58:51 PM)</p>
+<p align="center">(Update on: 8/3/2022, 11:58:22 PM)</p>
