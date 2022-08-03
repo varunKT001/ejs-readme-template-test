@@ -29,12 +29,16 @@ jobs:
         run: npm run build
       - name: Generate README file
         run: node build/index.js
-      - name: setup git config
-        run: |
-          git config user.name "varunKT001"
-          git config user.email "<tiwarivarun819.vt33.vt@gmail.com>"
-      - name: commit files
-        run: |
-          git add .
-          git commit -m "Update README.md"
-          git push origin main --force
+      - name: Commit and push
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          # Message
+          commit_message: Update README.md
+
+          # Author
+          commit_user_name: varunKT001
+          commit_user_email: tiwarivarun819.vt33.vt@gmail.com
+          commit_author: Varun Tiwari <tiwarivarun819.vt33.vt@gmail.com>
+
+          # Disable dirty check and always try to create a commit and push
+          skip_dirty_check: true
