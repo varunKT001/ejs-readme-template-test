@@ -36,4 +36,3 @@ jobs:
           commit_user_name: varunKT001
           commit_user_email: tiwarivarun819.vt33.vt@gmail.com
           commit_author: Varun Tiwari <tiwarivarun819.vt33.vt@gmail.com>
-          skip_dirty_check: true
