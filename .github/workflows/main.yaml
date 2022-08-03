@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to Main branch
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       - name: Setup NodeJs 13.x
         uses: actions/setup-node@v1
         with:
@@ -30,7 +30,7 @@ jobs:
       - name: Generate README file
         run: node build/index.js
       - name: Commit and push
-        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Varun Tiwari
           author_email: tiwarivarun819.vt33.vt@gmail.com
