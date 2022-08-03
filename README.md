@@ -6,7 +6,7 @@
 
 ## About me 👦
 
-- 🔭 I'a currently learning Typescript.
+- 🔭 I'm currently learning Typescript.
 - 🌱 I'm looking for open-source/internship opportunities.
 - ✨ Find all my projects at [**varuntiwari.xyz**](https://varuntiwari.xyz/)
 - 📫 How to reach me **tiwarivarun819.vt33.vt@gmail.com**
@@ -129,6 +129,12 @@
 <!-- Contribution graph -->
 
 ![varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=varunKT001&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
+
+<p align="center">
+<strong align="center">How many developers does it take to change a light bulb?</strong>
+<br/>
+<span align="center">None. It&#39;s a hardware issue.</span>
+</p>
 
 <!-- Socials -->
 
