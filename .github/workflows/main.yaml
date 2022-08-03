@@ -28,7 +28,7 @@ jobs:
       - name: Create build
         run: npm run build
       - name: Generate README file
-        run: node index.js
+        run: node build/index.js
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
