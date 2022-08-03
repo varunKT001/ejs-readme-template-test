@@ -34,4 +34,4 @@ jobs:
         with:
           author_name: Varun Tiwari
           author_email: tiwarivarun819.vt33.vt@gmail.com
-          message: 'Update README.md'
+          message: ':memo: Update README.md'
