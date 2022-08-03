@@ -10,8 +10,7 @@ interface DevJoke {
 }
 
 function fetchDevJoke(): AxiosPromise {
-  const url = 'https://backend-omega-seven.vercel.app/api/getjoke';
-
+  const url = `https://backend-omega-seven.vercel.app/api/getjoke?${new Date().getTime()}`;
   return axios.get<DevJoke[]>(url);
 }
 
