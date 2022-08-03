@@ -34,6 +34,4 @@ jobs:
         with:
           branch: main
           commit_message: Update README.md
-          commit_user_name: varunKT001
-          commit_user_email: tiwarivarun819.vt33.vt@gmail.com
           commit_author: Varun Tiwari <tiwarivarun819.vt33.vt@gmail.com>
