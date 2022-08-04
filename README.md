@@ -1,9 +1,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
+<strong align="center">What are clouds made of?</strong>
 <br/>
-<span align="center">In a dad-a-base.</span>
+<span align="center">Mostly linux servers.</span>
 </p>
 
-<p align="center">(Update on: 8/3/2022, 11:58:22 PM)</p>
+<p align="center">(Update on: 8/4/2022, 7:36:28 AM)</p>
